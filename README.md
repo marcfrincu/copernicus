@@ -15,6 +15,8 @@ The repository contains a precompiled binary part of the *copernicus-windows-bin
 
 The executable for Linux is the file *copernicus.elf*. Unzip the images.zip archive in an images folder before running the application.
 
+You can compile the entire codebase by running the *makefile*.
+
 ## Commands
 
 You can use the mouse to look around and keys to perform various actions. You can find the commands in *copernicus.cpp*.
