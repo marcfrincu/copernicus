@@ -1,0 +1,11 @@
+Tr16-Eta_Car_Cluster-Car	161.28	-59.72	9460	cluster
+mel111-Coma_star_Cluster-Com	186.25	26	280	cluster
+Col285-Ursa_major_Cluster-Uma	220.25	69.56	80	cluster
+Steph1-Delta_Lyr_Cluster-Lyr	283.38	36.92	1270	cluster
+B33-Horsehead-Ori	15.25	-2.5	1400	nebula
+Coalsack-Cru	25.38	-63	500	nebula
+B42-Rho_Ophiuchi-Oph	247.25	-24.3	500	nebula
+IC418-Spirograph-Lep	81.88	-12.7	3900	nebula
+Blanco1-Zeta_Scl_Cluster-Scl	1.08	-29.93	620	cluster
+Col69-Lambda_Ori-Ori	83.78	9.93	1630	cluster
+Col121-Omicron_Cma_clus.-Cma	103.55	-24.63	3820	cluster
