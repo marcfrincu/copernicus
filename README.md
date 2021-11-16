@@ -5,14 +5,16 @@ It the time I was starting to develop this software like Celestia was being buil
 
 If you are interesting in seeing how a simple simulator can be built (no shaders, shadows) you are invited to have a look.
 
+The code I have here has been unchanged since 2010.
+
 ## Windows binary
 
-The repository contains a precompiled binary part of the 'copernicus-windows-binary.zip' file that should run on Windows 10.
+The repository contains a precompiled binary part of the *copernicus-windows-binary.zip* file that should run on Windows 10.
 
 ## Linux
 
-The executable for Linux is the file 'copernicus.elf'. Unzip the images.zip archive in an images folder before running the application.
+The executable for Linux is the file *copernicus.elf*. Unzip the images.zip archive in an images folder before running the application.
 
 ## Commands
 
-You can use the mouse to look around and keys to perform various actions. You can find the commands in 'copernicus.cpp'.
+You can use the mouse to look around and keys to perform various actions. You can find the commands in *copernicus.cpp*.
